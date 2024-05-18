@@ -1,0 +1,5 @@
+Proprietary License
+
+This software is proprietary and confidential. Unauthorized copying of this software, via any medium, is strictly prohibited. The source code contained herein must not be copied, modified, or distributed without the express written permission of the author.
+
+(c) [2024] [AYUSH]. All rights reserved.
