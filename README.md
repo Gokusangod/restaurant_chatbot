@@ -104,7 +104,7 @@ We welcome contributions from the community! If you have suggestions, bug report
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under a Proprietary License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
